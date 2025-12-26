@@ -208,10 +208,10 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-
+```
 ![alt text](<Screenshot 2025-12-26 102705-1.png>)
 
 ![alt text](<Screenshot 2025-12-26 102629-1.png>)
-
+```
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
