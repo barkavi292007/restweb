@@ -209,7 +209,8 @@ Publish the website in the given URL.
 ```
 ## OUTPUT:
 
-<img width="1807" height="775" alt="Screenshot 2025-12-26 102629-1" src="https://github.com/user-attachments/assets/6ca52446-1712-45c5-8948-e5a644a8bc3a" />
+<img width="1769" height="888" alt="Screenshot 2025-12-26 102705-1" src="https://github.com/user-attachments/assets/043aa54a-b1da-47c2-b6cc-3ceff6709fef" />
+
 <img width="1807" height="775" alt="Screenshot 2025-12-26 102629-1" src="https://github.com/user-attachments/assets/f3260841-7c90-4f75-a861-39a04d9024b2" />
 
 ## RESULT:
